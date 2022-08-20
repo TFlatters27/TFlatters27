@@ -1,4 +1,7 @@
-![](https://pbs.twimg.com/profile_banners/1015303227267567618/1661032474/600x200)
+<p>
+    <img src="/res/images/undraw_version_control_re_mg66.svg" align="right" width="300" />
+</p>
+<br>
 
 ### 👨‍💻 &nbsp; About me :
 &nbsp;&nbsp; Hi I'm Tom Flattery! I'm currently studying Computer Science with Artificial Intelligence with a Year in Industry at Nottingham University 
@@ -58,3 +61,12 @@
 ### 🔥 &nbsp; My Stats :
 <a href="https://github.com/TFlatters27/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=TFlatters27&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&hide_border=true" alt="Anurag's github stats" /></a> <a href="https://github.com/TFlatters27/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TFlatters27&layout=compact&theme=vision-friendly-dark&hide_border=true" /></a> 
 
+<div align="center">
+
+[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/uses-badges.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/not-a-bug-a-feature.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/designed-in-ms-paint.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-energy-drinks.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/it-works-why.svg)](https://forthebadge.com)
+</div>

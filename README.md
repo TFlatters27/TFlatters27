@@ -1,5 +1,5 @@
 <p>
-    <img src="/res/images/undraw_version_control_re_mg66.svg" align="right" width="300" />
+    <img src="res/version_control.svg" align="right" width="300" />
 </p>
 <br>
 

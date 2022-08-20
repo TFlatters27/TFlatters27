@@ -50,7 +50,7 @@ Hi, I'm Tom Flattery! I'm currently studying Computer Science with Artificial In
   <a href="https://twitter.com/TomFlattery1">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-    <a href="mailto:flatterythomas48@gmail.com">flatterythomas48@gmail.com</a>
+  <a href="mailto:flatterythomas48@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail Badge"/>
   </a>
   <a href="https://discordapp.com/users/526379650134573058/">

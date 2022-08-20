@@ -1,5 +1,5 @@
 <p>
-    <img src="res/version_control.svg" align="right" width="300" />
+    <img src="res/undraw_programming_re_kg9v.png" align="right" width="400" />
 </p>
 <br>
 

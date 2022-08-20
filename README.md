@@ -4,7 +4,7 @@
 <br>
 
 ### 👨‍💻 &nbsp; About me :
-Hi I'm Tom Flattery! I'm currently studying Computer Science with Artificial Intelligence with a Year in Industry at Nottingham University 
+Hi, I'm Tom Flattery! I'm currently studying Computer Science with Artificial Intelligence with a Year in Industry at Nottingham University 
 <br>
 - 🔭 I’m currently working on my projects  
 - 🌱 I’m currently learning C++ 

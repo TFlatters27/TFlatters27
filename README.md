@@ -10,7 +10,7 @@ Hi, I'm Tom Flattery! I'm currently studying Computer Science with Artificial In
 - 🌱 I’m currently learning C++ 
 - 👯 I’m looking to collaborate on projects related to artificial intelligence 
 - 🤔 I’m looking for help with "How to be an ideal candidate for internships" 
-- 💬 Ask me about anything [here](https://github.com/TFlatters27/TFlatters27/issues)
+- 💬 Ask me about anything [here](https://github.com/mxcury/mxcury/issues)
 - 😄 Pronouns: He/Him 
 - ⚡ I like to work on my projects and solve Leetcode problems :)
 
@@ -41,7 +41,7 @@ Hi, I'm Tom Flattery! I'm currently studying Computer Science with Artificial In
 ### 📱 &nbsp; Socials :
 
 <div id="badges">
-   <a href="https://github.com/TFlatters27">
+   <a href="https://github.com/mxcury">
     <img src="https://img.shields.io/badge/Github-orange?logo=github&logoColor=white&style=for-the-badge" alt="Github Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/tom-flattery-5775b9249//">
@@ -66,7 +66,7 @@ Hi, I'm Tom Flattery! I'm currently studying Computer Science with Artificial In
 ........
 
 ### 🔥 &nbsp; My Stats :
-<a href="https://github.com/TFlatters27/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=TFlatters27&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&hide_border=true" alt="Anurag's github stats" /></a> <a href="https://github.com/TFlatters27/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TFlatters27&layout=compact&theme=vision-friendly-dark&hide_border=true" /></a> 
+<a href="https://github.com/mxcury/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mxcury&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&hide_border=true" alt="Anurag's github stats" /></a> <a href="https://github.com/mxcury/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxcury&layout=compact&theme=vision-friendly-dark&hide_border=true" /></a> 
 
 <div align="center">
 

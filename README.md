@@ -47,20 +47,20 @@ Hi, I'm Tom Flattery! I'm currently studying Computer Science with Artificial In
   <a href="https://www.linkedin.com/in/tom-flattery-5775b9249//">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/TomFlattery1">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
   <a href="mailto:flatterythomas48@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail Badge"/>
+  </a>
+   <a href="https://mxcury.github.io/">
+    <img src="https://img.shields.io/badge/Website-green?logo=reactos&logoColor=white&style=for-the-badge" alt="Leetcode Badge"/>
   </a>
   <a href="https://discordapp.com/users/526379650134573058/">
     <img src="https://img.shields.io/badge/Discord-blue?logo=discord&logoColor=white&style=for-the-badge" alt="Discord Badge"/>
   </a>
+  <a href="https://twitter.com/TomFlattery1">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
   <a href="https://leetcode.com/tomflatters27/">
     <img src="https://img.shields.io/badge/Leetcode-orange?logo=leetcode&logoColor=white&style=for-the-badge" alt="Leetcode Badge"/>
-  </a>
-  <a href="https://mxcury.github.io/">
-    <img src="https://img.shields.io/badge/Website-green?logo=reactos&logoColor=white&style=for-the-badge" alt="Leetcode Badge"/>
   </a>
 </div>
 

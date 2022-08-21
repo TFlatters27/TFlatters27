@@ -66,7 +66,7 @@ Hi, I'm Tom Flattery! I'm currently studying Computer Science with Artificial In
 ........
 
 ### 🔥 &nbsp; My Stats :
-<a href="https://github.com/mxcury/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mxcury&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&hide_border=true" alt="Anurag's github stats" /></a> <a href="https://github.com/mxcury/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxcury&layout=compact&theme=vision-friendly-dark&hide_border=true" /></a> 
+<a href="https://github.com/mxcury/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mxcury&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&hide_border=true" alt="Tom's github stats" /></a> <a href="https://github.com/mxcury/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxcury&layout=compact&theme=vision-friendly-dark&hide_border=true" /></a> 
 
 <div align="center">
 

@@ -70,33 +70,27 @@ My [repository](https://github.com/mxcury?tab=repositories)
 
 <div id="projects">
   <a href="https://github.com/mxcury/convNet">
-    <img src="https://img.shields.io/badge/Project-orange?logo=artifacthub&logoColor=white&style=for-the-badge" alt="Github Badge"/>
-    Convolutional Neural Network
+    <img src="https://img.shields.io/badge/Convolutional_Neural_Network-orange?logo=artifacthub&logoColor=white&style=for-the-badge" alt="Github Badge"/>
   </a>
   <br>
   <a href="https://github.com/mxcury/collapseWaveFunction">
-    <img src="https://img.shields.io/badge/Project-orange?logo=artifacthub&logoColor=white&style=for-the-badge" alt="Github Badge"/>
-    Wave Collapse Function Algorithm
+    <img src="https://img.shields.io/badge/Wave_Collapse_Algorithm-orange?logo=artifacthub&logoColor=white&style=for-the-badge" alt="Github Badge"/>
   </a>
   <br>
   <a href="https://github.com/mxcury/ticTacToe">
-    <img src="https://img.shields.io/badge/Project-orange?logo=artifacthub&logoColor=white&style=for-the-badge" alt="Github Badge"/>
-    Tic-Tac-Toe
+    <img src="https://img.shields.io/badge/tic_tac_toe-orange?logo=artifacthub&logoColor=white&style=for-the-badge" alt="Github Badge"/>
   </a>
   <br>
   <a href="https://github.com/mxcury/reversiGame">
-    <img src="https://img.shields.io/badge/Project-orange?logo=artifacthub&logoColor=white&style=for-the-badge" alt="Github Badge"/>
-    Othello/Reversi Game
+    <img src="https://img.shields.io/badge/Reversi_Game-orange?logo=artifacthub&logoColor=white&style=for-the-badge" alt="Github Badge"/>
   </a>
   <br>
   <a href="https://github.com/mxcury/snakeClone">
-    <img src="https://img.shields.io/badge/Project-orange?logo=artifacthub&logoColor=white&style=for-the-badge" alt="Github Badge"/>
-    Snake Game Clone
+    <img src="https://img.shields.io/badge/Snake_game-orange?logo=artifacthub&logoColor=white&style=for-the-badge" alt="Github Badge"/>
   </a>
   <br>
   <a href="https://github.com/mxcury/pCubedLang">
-    <img src="https://img.shields.io/badge/Project-orange?logo=artifacthub&logoColor=white&style=for-the-badge" alt="Github Badge"/>
-    Custom Programming Language
+    <img src="https://img.shields.io/badge/Custom_Programming_Language-orange?logo=artifacthub&logoColor=white&style=for-the-badge" alt="Github Badge"/>
   </a>
   <br>
   

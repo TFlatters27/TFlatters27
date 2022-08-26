@@ -63,7 +63,35 @@ Hi, I'm Tom Flattery! I'm currently studying Computer Science with Artificial In
 
 ### 📂 &nbsp; My Projects :
 
-........
+My [repository](https://github.com/mxcury?tab=repositories)
+
+<div id="projects">
+  <a href="https://github.com/mxcury/convNet">
+    <img src="https://img.shields.io/badge/Project-orange?logo=artifacthub&logoColor=white&style=for-the-badge" alt="Github Badge"/>
+    Convolutional Neural Network
+  </a>
+  <a href="https://github.com/mxcury/collapseWaveFunction">
+    <img src="https://img.shields.io/badge/Project-orange?logo=artifacthub&logoColor=white&style=for-the-badge" alt="Github Badge"/>
+    Wave Collapse Function Algorithm
+  </a>
+  <a href="https://github.com/mxcury/ticTacToe">
+    <img src="https://img.shields.io/badge/Project-orange?logo=artifacthub&logoColor=white&style=for-the-badge" alt="Github Badge"/>
+    Tic-Tac-Toe
+  </a>
+  <a href="https://github.com/mxcury/reversiGame">
+    <img src="https://img.shields.io/badge/Project-orange?logo=artifacthub&logoColor=white&style=for-the-badge" alt="Github Badge"/>
+    Othello/Reversi Game
+  </a>
+  <a href="https://github.com/mxcury/snakeClone">
+    <img src="https://img.shields.io/badge/Project-orange?logo=artifacthub&logoColor=white&style=for-the-badge" alt="Github Badge"/>
+    Snake Game Clone
+  </a>
+  <a href="https://github.com/mxcury/pCubedLang">
+    <img src="https://img.shields.io/badge/Project-orange?logo=artifacthub&logoColor=white&style=for-the-badge" alt="Github Badge"/>
+    Custom Programming Language
+  </a>
+  
+</div>
 
 ### 🔥 &nbsp; My Stats :
 <a href="https://github.com/mxcury/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mxcury&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&hide_border=true" alt="Anurag's github stats" /></a> <a href="https://github.com/mxcury/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxcury&layout=compact&theme=vision-friendly-dark&hide_border=true" /></a> 

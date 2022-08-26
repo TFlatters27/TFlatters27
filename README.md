@@ -73,26 +73,32 @@ My [repository](https://github.com/mxcury?tab=repositories)
     <img src="https://img.shields.io/badge/Project-orange?logo=artifacthub&logoColor=white&style=for-the-badge" alt="Github Badge"/>
     Convolutional Neural Network
   </a>
+  <br>
   <a href="https://github.com/mxcury/collapseWaveFunction">
     <img src="https://img.shields.io/badge/Project-orange?logo=artifacthub&logoColor=white&style=for-the-badge" alt="Github Badge"/>
     Wave Collapse Function Algorithm
   </a>
+  <br>
   <a href="https://github.com/mxcury/ticTacToe">
     <img src="https://img.shields.io/badge/Project-orange?logo=artifacthub&logoColor=white&style=for-the-badge" alt="Github Badge"/>
     Tic-Tac-Toe
   </a>
+  <br>
   <a href="https://github.com/mxcury/reversiGame">
     <img src="https://img.shields.io/badge/Project-orange?logo=artifacthub&logoColor=white&style=for-the-badge" alt="Github Badge"/>
     Othello/Reversi Game
   </a>
+  <br>
   <a href="https://github.com/mxcury/snakeClone">
     <img src="https://img.shields.io/badge/Project-orange?logo=artifacthub&logoColor=white&style=for-the-badge" alt="Github Badge"/>
     Snake Game Clone
   </a>
+  <br>
   <a href="https://github.com/mxcury/pCubedLang">
     <img src="https://img.shields.io/badge/Project-orange?logo=artifacthub&logoColor=white&style=for-the-badge" alt="Github Badge"/>
     Custom Programming Language
   </a>
+  <br>
   
 </div>
 

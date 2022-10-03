@@ -12,7 +12,7 @@ Hi, I'm Tom Flattery! I'm currently studying Computer Science with Artificial In
 - 🤔 I’m looking for help with "How to be an ideal candidate for internships" 
 - 💬 Ask me about anything [here](https://github.com/mxcury/mxcury/issues)
 - 😄 Pronouns: He/Him 
-- ⚡ I like to work on my projects and solve Leetcode problems :)
+- ⚡ I like to work on my projects 
 
 
 ### 🛠 &nbsp;Languages and Tools :

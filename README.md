@@ -6,13 +6,12 @@
 ### 👨‍💻 &nbsp; About me :
 Hi, I'm Tom Flattery! I'm currently studying Computer Science with Artificial Intelligence with a Year in Industry at Nottingham University 
 <br>
-- 🔭 I’m currently working on my projects  
-- 🌱 I’m currently learning C++ 
+- 🔭 I’m currently working on my projects and looking for graduate positions
+- 🌱 I’m currently learning Rust 
 - 👯 I’m looking to collaborate on projects related to artificial intelligence 
-- 🤔 I’m looking for help with "How to be an ideal candidate for internships" 
 - 💬 Ask me about anything [here](https://github.com/mxcury/mxcury/issues)
 - 😄 Pronouns: He/Him 
-- ⚡ I like to work on my projects 
+- ⚡ I like to solve complex problems and work on machine learning applications
 
 
 ### 🛠 &nbsp;Languages and Tools :
@@ -53,15 +52,6 @@ Hi, I'm Tom Flattery! I'm currently studying Computer Science with Artificial In
    <a href="https://mxcury.github.io/">
     <img src="https://img.shields.io/badge/Website-green?logo=reactos&logoColor=white&style=for-the-badge" alt="Leetcode Badge"/>
   </a>
-  <a href="https://discordapp.com/users/526379650134573058/">
-    <img src="https://img.shields.io/badge/Discord-blue?logo=discord&logoColor=white&style=for-the-badge" alt="Discord Badge"/>
-  </a>
-  <a href="https://twitter.com/TomFlattery1">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="https://leetcode.com/tomflatters27/">
-    <img src="https://img.shields.io/badge/Leetcode-orange?logo=leetcode&logoColor=white&style=for-the-badge" alt="Leetcode Badge"/>
-  </a>
 </div>
 
 ### 📂 &nbsp; My Projects :
@@ -69,28 +59,24 @@ Hi, I'm Tom Flattery! I'm currently studying Computer Science with Artificial In
 My [repository](https://github.com/mxcury?tab=repositories)
 
 <div id="projects">
-  <a href="https://github.com/mxcury/convNet">
-    <img src="https://img.shields.io/badge/Convolutional_Neural_Network-orange?logo=artifacthub&logoColor=white&style=for-the-badge" alt="Github Badge"/>
-  </a>
-  <br>
-  <a href="https://github.com/mxcury/collapseWaveFunction">
-    <img src="https://img.shields.io/badge/Wave_Collapse_Algorithm-orange?logo=artifacthub&logoColor=white&style=for-the-badge" alt="Github Badge"/>
-  </a>
-  <br>
-  <a href="https://github.com/mxcury/ticTacToe">
-    <img src="https://img.shields.io/badge/tic_tac_toe-orange?logo=artifacthub&logoColor=white&style=for-the-badge" alt="Github Badge"/>
-  </a>
-  <br>
-  <a href="https://github.com/mxcury/reversiGame">
-    <img src="https://img.shields.io/badge/Reversi_Game-orange?logo=artifacthub&logoColor=white&style=for-the-badge" alt="Github Badge"/>
-  </a>
-  <br>
-  <a href="https://github.com/mxcury/snakeClone">
-    <img src="https://img.shields.io/badge/Snake_game-orange?logo=artifacthub&logoColor=white&style=for-the-badge" alt="Github Badge"/>
+  <a href="https://github.com/mxcury/Physarum-Simulation">
+    <img src="https://img.shields.io/badge/Physarum_Simulation-blue?logo=artifacthub&logoColor=white&style=for-the-badge" alt="Github Badge"/>
   </a>
   <br>
   <a href="https://github.com/mxcury/pCubedLang">
-    <img src="https://img.shields.io/badge/Custom_Programming_Language-orange?logo=artifacthub&logoColor=white&style=for-the-badge" alt="Github Badge"/>
+    <img src="https://img.shields.io/badge/Custom_Programming_language-green?logo=artifacthub&logoColor=white&style=for-the-badge" alt="Github Badge"/>
+  </a>
+  <br>
+  <a href="https://github.com/mxcury/rust-http-server">
+    <img src="https://img.shields.io/badge/Rust_HTTP_Server-orange?logo=artifacthub&logoColor=white&style=for-the-badge" alt="Github Badge"/>
+  </a>
+  <br>
+  <a href="https://github.com/mxcury/reversiGame">
+    <img src="https://img.shields.io/badge/FundFlow-blue?logo=artifacthub&logoColor=white&style=for-the-badge" alt="Github Badge"/>
+  </a>
+  <br>
+  <a href="https://github.com/mxcury/convNet">
+    <img src="https://img.shields.io/badge/Convolutional_Neural_Network-red?logo=artifacthub&logoColor=white&style=for-the-badge" alt="Github Badge"/>
   </a>
   <br>
   
@@ -102,9 +88,5 @@ My [repository](https://github.com/mxcury?tab=repositories)
 <div align="center">
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/uses-badges.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/not-a-bug-a-feature.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-overtime.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-crayons.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/it-works-why.svg)](https://forthebadge.com)
 </div>
